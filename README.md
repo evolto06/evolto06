@@ -10,8 +10,7 @@ Currently grinding on this GitHub — projects incoming soon.
  
 ### 🔧 What I work with
  
-**Languages**
-```
+**Languages and Frameworks**
 <h4>Languages</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -33,7 +32,6 @@ Currently grinding on this GitHub — projects incoming soon.
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-```
  
 **Focus areas**
 - Software Development
