@@ -4,13 +4,13 @@ CS student at the University of the Philippines Visayas, working across the stac
  
 I like understanding *how* things work under the hood — not just using the abstraction, but poking at what's underneath it. That's led me down rabbit holes into OS internals, kernel source, GPU/driver behavior, and digital logic design, alongside regular coursework in algorithms and systems programming.
  
-Currently grinding on this GitHub — projects incoming soon.
+Building projects across web development, systems programming, and digital logic.
  
 ---
  
 ### 🔧 What I work with
  
-**Languages and Frameworks**
+**Skills**
 <h4>Languages</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -55,12 +55,11 @@ I've worked on embedded/hardware projects (Arduino-based ALU builds), graph algo
  
 Feel free to open an issue or reach out if something here overlaps with what you're building.
 
+<p align="left"> <a href="mailto:eusefkarl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/eusefkarl/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+
 
 <h5>GitHub Stats</h5>
 <p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06/"></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06"><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06"/>
 </p>
-
-<h5>Reach Me</h5>
-<p align="left"> <a href="mailto:eusefkarl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/eusefkarl/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
