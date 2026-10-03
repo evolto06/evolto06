@@ -60,6 +60,7 @@ Feel free to open an issue or reach out if something here overlaps with what you
 
 <h5>GitHub Stats</h5>
 <p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=evolto06&show_icons=true&hide_rank=true" alt="Eusef's GitHub stats"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06"><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06"/>
 </p>
