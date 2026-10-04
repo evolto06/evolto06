@@ -41,8 +41,9 @@ Building projects across web development, systems programming, and digital logic
  
 ### 🌱 Currently learning
  
-- **Rust** — working through it via Exercism
-- Systems-level topics for fun: kernel internals, x86 assembly, digital logic (Verilog)
+- **Rust** — working through it via projects. (See FateGrandCalculator)
+- Systems-level topics for fun: kernel internals, x86 assembly.
+- AI Engineering
 ---
  
 ### ⚡ A bit more about how I build
