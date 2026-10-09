@@ -36,6 +36,7 @@ Building projects across web development, systems programming, and digital logic
 **Focus areas**
 - Software Development
 - Backend Engineering
+- AI Engineering/Machine Learning
 - Low-Level Coding / Embedded Systems
 ---
  
