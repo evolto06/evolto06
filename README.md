@@ -5,6 +5,7 @@ CS student at the University of the Philippines Visayas, working across the stac
 I like understanding *how* things work under the hood — not just using the abstraction, but poking at what's underneath it. That's led me down rabbit holes into OS internals, kernel source, GPU/driver behavior, and digital logic design, alongside regular coursework in algorithms and systems programming.
  
 Building projects across web development, systems programming, and digital logic.
+I enjoy exploring how software, hardware, and systems fit together.
  
 ---
  
@@ -67,4 +68,4 @@ Feel free to open an issue or reach out if something here overlaps with what you
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06" alt="Eusef's GitHub streak stats"><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06" alt="Eusef's top languages"/>
 </p>
-Last updated: October 10, 2026.
+Last updated: October 11, 2026.
