@@ -36,6 +36,7 @@ Building projects across web development, systems programming, and digital logic
 **Focus areas**
 - Software Development
 - Backend Engineering
+- AI Engineering/Machine Learning
 - Low-Level Coding / Embedded Systems
 ---
  
@@ -44,6 +45,7 @@ Building projects across web development, systems programming, and digital logic
 - **Rust** — working through it via projects. (See FateGrandCalculator)
 - Systems-level topics for fun: kernel internals, x86 assembly.
 - AI Engineering
+- Data Engineering 
 ---
  
 ### ⚡ A bit more about how I build
