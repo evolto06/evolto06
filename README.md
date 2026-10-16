@@ -9,6 +9,12 @@ I enjoy exploring how software, hardware, and systems fit together.
  
 ---
  
+### 🚧 Currently building
+
+- A business management system.
+
+---
+
 ### 🔧 What I work with
  
 **Skills**
