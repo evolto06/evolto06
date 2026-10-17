@@ -12,6 +12,7 @@ I enjoy exploring how software, hardware, and systems fit together.
 ### 🚧 Currently building
 
 - A business management system.
+- A Filipino spider derby game built with Three.js.
 
 ---
 
