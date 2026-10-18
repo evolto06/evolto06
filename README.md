@@ -34,6 +34,7 @@ I enjoy exploring how software, hardware, and systems fit together.
 <h4>Frameworks & Libraries</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -75,4 +76,4 @@ Feel free to open an issue or reach out if something here overlaps with what you
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06" alt="Eusef's GitHub streak stats"><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06" alt="Eusef's top languages"/>
 </p>
-Last updated: October 15, 2026.
+Last updated: October 18, 2026.
