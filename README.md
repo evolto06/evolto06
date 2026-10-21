@@ -1,11 +1,10 @@
 # Hi, I'm Eusef 👋
  
-CS student at the University of the Philippines Visayas, working across the stack but happiest closer to the metal.
+Computer science student at the University of the Philippines Visayas, working across the stack but happiest closer to the metal.
  
 I like understanding *how* things work under the hood — not just using the abstraction, but poking at what's underneath it. That's led me down rabbit holes into OS internals, kernel source, GPU/driver behavior, and digital logic design, alongside regular coursework in algorithms and systems programming.
  
-Building projects across web development, systems programming, and digital logic.
-I enjoy exploring how software, hardware, and systems fit together.
+I build projects across web development, systems programming, and digital logic, exploring how software, hardware, and systems fit together.
  
 ---
  
