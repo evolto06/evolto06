@@ -10,8 +10,8 @@ I build projects across web development, systems programming, and digital logic,
  
 ### 🚧 Currently building
 
-- A business management system.
-- A Filipino spider derby game built with Three.js.
+- A business management system
+- A Filipino spider derby game, built with Three.js
 
 ---
 
