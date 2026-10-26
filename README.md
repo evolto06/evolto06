@@ -59,6 +59,7 @@ My projects span web development, systems programming, and digital logic, with a
 ### ⚡ A bit more about how I build
  
 I've worked on embedded/hardware projects (Arduino-based ALU builds), graph algorithms applied to real problems (pathfinding for indoor navigation), and full-stack web apps (PHP/MySQL, and exploring Next.js/Supabase). I like projects that force me to understand a system end-to-end rather than just gluing libraries together.
+
  
 ---
  
