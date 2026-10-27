@@ -46,6 +46,7 @@ My projects span web development, systems programming, and digital logic, with a
 - Backend Engineering
 - AI Engineering/Machine Learning
 - Low-Level Coding / Embedded Systems
+- 
 ---
  
 ### 🌱 Currently learning
