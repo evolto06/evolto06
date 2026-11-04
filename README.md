@@ -46,7 +46,7 @@ My projects span web development, systems programming, and digital logic, with a
 - Backend Engineering
 - AI Engineering/Machine Learning
 - Low-Level Coding / Embedded Systems
-- 
+- Mobile Development
 ---
  
 ### 🌱 Currently learning
@@ -72,9 +72,8 @@ Feel free to open an issue or reach out if something here overlaps with what you
 
 
 <h5>GitHub Stats</h5>
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=evolto06&show_icons=true&hide_rank=true" alt="Eusef's GitHub stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06" alt="Eusef's GitHub streak stats"><br>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=evolto06&show_icons=true&hide_rank=true" alt="Eusef's GitHub stats"/><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06" alt="Eusef's top languages"/>
 </p>
-Last updated: October 27, 2026.
+Last updated:   November 4, 2026.
