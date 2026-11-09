@@ -91,10 +91,10 @@ I've worked on **embedded/hardware projects** (Arduino-based ALU builds), **grap
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=evolto06&show_icons=true&hide_rank=true" alt="Eusef's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=evolto06&show_icons=true&hide_rank=true" alt="Eusef's GitHub stats"/>
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06&layout=compact" alt="Eusef's top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=evolto06" alt="Eusef's GitHub streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=evolto06" alt="Eusef's GitHub streak stats"/>
 
 </div>
 
