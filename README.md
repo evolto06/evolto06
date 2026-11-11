@@ -55,50 +55,54 @@ That's led me down rabbit holes into **OS internals, kernel source, GPU/driver b
 
 ---
 
-## 🔧 Tech stack
+## Tech stack
 
-**Languages**
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Tkinter"/>
-</p>
+<table>
+<tr>
+<td width="170"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,rust,c,py,java,mysql,html,css&perline=8" height="40" alt="TypeScript, Rust, C, Python, Java, SQL, HTML5, CSS3"/></td>
+</tr>
+<tr>
+<td><b>Frameworks & libraries</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,threejs,vite,sklearn&perline=8" height="40" alt="React, Next.js, Three.js, Vite, scikit-learn"/> <sub>&nbsp;+ Tkinter</sub></td>
+</tr>
+<tr>
+<td><b>Also worked with</b></td>
+<td><img src="https://skillicons.dev/icons?i=arduino,php,supabase&perline=8" height="40" alt="Arduino, PHP, Supabase"/></td>
+</tr>
+</table>
 
 ---
 
-## ⚡ How I build
-
-I've worked on **embedded/hardware projects** (Arduino-based ALU builds), **graph algorithms applied to real problems** (pathfinding for indoor navigation), and **full-stack web apps** (PHP/MySQL, and exploring Next.js/Supabase).
+## How I build
 
 > I like projects that force me to understand a system end-to-end rather than just gluing libraries together.
 
+| | |
+|:--|:--|
+| 🔌 **Embedded / hardware** | Arduino-based ALU builds |
+| 🧮 **Algorithms on real problems** | Graph pathfinding for indoor navigation |
+| 🌐 **Full-stack web** | PHP/MySQL apps, and exploring Next.js/Supabase |
+
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=evolto06&show_icons=true&hide_rank=true" alt="Eusef's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06&layout=compact" alt="Eusef's top languages"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=evolto06&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=evolto06&show_icons=true&hide_rank=true&hide_border=true" alt="Eusef's GitHub stats"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=evolto06&layout=compact&hide_border=true" alt="Eusef's top languages"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=evolto06" alt="Eusef's GitHub streak stats"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=evolto06&hide_border=true&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com/?user=evolto06&hide_border=true" alt="Eusef's GitHub streak stats"/>
+</picture>
 
 </div>
 
@@ -108,6 +112,8 @@ I've worked on **embedded/hardware projects** (Arduino-based ALU builds), **grap
 
 **📫 Feel free to open an issue or reach out if something here overlaps with what you're building.**
 
-<sub>Last updated: November 9, 2026</sub>
+<sub>Last updated: November 11, 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117,55:1f3a5f,100:3178C6" width="100%" alt=""/>
 
 </div>
