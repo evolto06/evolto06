@@ -83,6 +83,7 @@ That's led me down rabbit holes into **OS internals, kernel source, GPU/driver b
 | 🔌 **Embedded / hardware** | Arduino-based ALU builds |
 | 🧮 **Algorithms on real problems** | Graph pathfinding for indoor navigation |
 | 🌐 **Full-stack web** | PHP/MySQL apps, and exploring Next.js/Supabase |
+| 🎮 **Games from scratch** | [Base Defenders](https://github.com/evolto06/BaseDefenders): a tower defense game in plain Java on an Entity-Component-System, no libraries or asset files |
 
 ---
 
