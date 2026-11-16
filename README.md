@@ -32,6 +32,7 @@ That's led me down rabbit holes into **OS internals, kernel source, GPU/driver b
 - A business management system
 - A Filipino spider derby game in **Three.js**
 - A small 3v3 MOBA
+- A project tracker
 
 </td>
 <td valign="top">
@@ -114,7 +115,7 @@ That's led me down rabbit holes into **OS internals, kernel source, GPU/driver b
 
 **📫 Feel free to open an issue or reach out if something here overlaps with what you're building.**
 
-<sub>Last updated: November 15, 2026</sub>
+<sub>Last updated: November 16, 2026</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117,55:1f3a5f,100:3178C6" width="100%" alt=""/>
 
